@@ -18,7 +18,5 @@ To view the webpage, simply open the `index.html` file in a web browser. Ensure 
 
 ## Additional Notes
 
-- The title of the webpage is set to "Fuckoff," but you can change it to something more suitable for your project.
 - It's important to review the `script.js` file for any functionality related to the animation or interactivity.
 
-Feel free to customize and extend this code for your specific needs. If you have any questions or need further assistance, please refer to the code comments or reach out for support.
